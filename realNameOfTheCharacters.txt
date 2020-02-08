@@ -1,4 +1,7 @@
-Harry Potter    ->  Daniel Radcliffe
-Hermione        ->  Emma Watson
-Voldemort       ->  Ralph Fiennes
-Draco Malfoy  ->  Tom Felton
+Harry Potter             ->  Daniel Radcliffe
+Hermione                 ->  Emma Watson
+Voldemort                ->  Ralph Fiennes
+Draco Malfoy           ->  Tom Felton
+Rúbeo Hagrid          ->  Robbie Coltrane
+Sirius Black             ->  Gary Oldman
+Albus Dumbledore  ->  Michael Gambon
